@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-sales-and-crm-nextjs",
+  "capabilityKey": "planned:sap:sales-and-crm",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-sap-sales-and-crm-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/sap/nextjs/sales-and-crm.md",
+  "presentationPlan": "projects/sap/nextjs/sales-and-crm.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
